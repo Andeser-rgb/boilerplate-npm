@@ -4,6 +4,7 @@
   "description": "This project definetely does something, but I'm not sure what it is",
   "keywords": ["freecodecamp", "first", "npm", "project"],
   "license": "MIT",
+  "version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
