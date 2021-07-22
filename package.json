@@ -3,6 +3,7 @@
   "author": "Andrea Squitieri",
   "description": "This project definetely does something, but I'm not sure what it is",
   "keywords": ["freecodecamp", "first", "npm", "project"],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
